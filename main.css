@@ -1,0 +1,51 @@
+html{
+   background-image:linear-gradient( rgb(142, 244, 255), rgb(166, 129, 185))
+}
+.header-bar{
+    padding: 10px;
+    text-align: center;
+    background-image:linear-gradient( rgba(250, 251, 252, 0.298), rgba(112, 112, 155, 0.245))
+}
+a{
+    font-size: x-large;
+    padding: 20px;
+    color: rgba(21, 127, 240, 0.796);
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#end-page{
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(33, 83, 92, 0.200);
+    margin-top: 30px;
+}
+h1{
+    padding: 30px;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    font-size: x-large;
+}
+table{
+    margin: auto;
+}
+th{
+    text-align: center;
+    font-size: xx-large;
+    padding: 20px;
+}
+td{
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20px;
+}
+hr{
+    margin: auto;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+}
